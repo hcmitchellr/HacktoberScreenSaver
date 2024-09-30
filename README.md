@@ -1,5 +1,7 @@
 # Hacktober Cybersecurity Awareness Screensaver
 
+![Hacktober Preview]( https://github.com/hcmitchellr/HacktoberScreenSaver/blob/main/Slide9.PNG)
+
 October is **Cybersecurity Awareness Month**, and the Hacktober Cybersecurity Screensaver is designed to deliver fun and engaging cybersecurity training tips every time your system goes idle. This screensaver provides short, informative reminders that help users stay vigilant about cybersecurity throughout the month.
 
 Whether it’s tips on creating strong passwords, avoiding phishing scams, or ensuring safe browsing practices, this screensaver ensures that users receive essential cybersecurity guidance in a fun and accessible format.
