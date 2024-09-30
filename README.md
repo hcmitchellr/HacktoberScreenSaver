@@ -12,6 +12,8 @@ Whether it’s tips on creating strong passwords, avoiding phishing scams, or en
 - **Easy to use**: Available in two versions for flexibility:
   - **Hacktober.svr**: The standalone screensaver file.
   - **Hacktober.exe**: An easy-to-use installer for quick deployment.
+ 
+  ![Hacktober Preview]( https://github.com/hcmitchellr/HacktoberScreenSaver/blob/main/Slide8.PNG)
 
 ## Installation:
 - **Hacktober.svr**: 
